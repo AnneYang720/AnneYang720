@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ---
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<img width="50%" align="right" src="https://raw.githubusercontent.com/AnneYang720/AnneYang720/main/cutie.jpg" />
 
 ### I'm Anne Yang
 
